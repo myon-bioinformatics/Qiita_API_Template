@@ -1,19 +1,24 @@
 # Qiita_API_Template
-## Summary
-__Get the articles by using Qiita API__
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Qiita_Logo.svg/500px-Qiita_Logo.svg.png" width="100">
+> [!IMPORTANT]
+> **Archived / no longer actively maintained.**
+>
+> This repository is preserved as a historical Python example for retrieving articles through the Qiita API v2. No further feature or compatibility maintenance is planned.
 
->__Note__ you must install request library if not 
+## Historical purpose
 
-![GitHub license](https://img.shields.io/github/license/myon-bioinformatics/Qiita_API_Template)
-![GitHub last commit](https://img.shields.io/github/last-commit/myon-bioinformatics/Qiita_API_Template)
-[![CodeQL](https://github.com/myon-bioinformatics/Qiita_API_Template/actions/workflows/codeql.yml/badge.svg)](https://github.com/myon-bioinformatics/Qiita_API_Template/actions/workflows/codeql.yml)
+A historical Python example for retrieving articles through the Qiita API v2.
 
-[![GitHub followers](https://img.shields.io/github/followers/myon-bioinformatics?style=social)](https://github.com/myon-bioinformatics)
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/myon_reddit?style=social)](https://www.reddit.com/user/myon_reddit/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/myonitbusiness?style=social)](https://twitter.com/myonitbusiness)
+It is kept public for reference, but repository-wide search found no implementation dependency from the owner's current GitHub repositories. For new work, use the current upstream API/service documentation rather than treating this repository as a maintained shared module.
 
+## Preserved files
+
+- `qiita_api_template.py`
 
 ## Reference
-- About Qiita API: https://qiita.com/api/v2/docs
+
+- Qiita API v2 documentation: https://qiita.com/api/v2/docs
+
+## Maintenance status
+
+This repository is intended to become read-only after GitHub archival. Existing source and history are retained for reference.
